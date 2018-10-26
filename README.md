@@ -1,4 +1,4 @@
-#Rogers_B_Shewaga_D_AutoApp
+# Rogers_B_Shewaga_D_AutoApp
 
 An application developed for the purpose of displaying a car in an appealing fashion. An interactive model of the vehicle will be displayed at the top of the page for the purpose of highlighting different features across the vehicle. This application has been developed for the Interactive Media Design course  at Fanshawe College.
 
