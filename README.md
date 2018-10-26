@@ -64,8 +64,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Brendan Rogers** - *Developer/Designer* - (https://github.com/DrewShewaga)
-* **Drew Shewaga** - *Developer/Designer* - (https://github.com/Brendan-Rogers)
+* **Brendan Rogers** - *Developer/Designer* - (https://github.com/Brendan-Rogers)
+* **Drew Shewaga** - *Developer/Designer* - (https://github.com/DrewShewaga)
 
 ## License
 
